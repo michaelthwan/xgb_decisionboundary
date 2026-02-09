@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:arxiv.org)",
+      "Bash(pip install:*)",
+      "Bash(uv pip install:*)",
+      "Bash(conda create:*)",
+      "Bash(cmd.exe /c \"conda create -n xgb_boundary python=3.11 -y\")",
+      "Bash(\"C:\\\\Users\\\\MW\\\\miniconda3\\\\condabin\\\\conda.bat\" create -n xgb_boundary python=3.11 xgboost matplotlib numpy scikit-learn pandas -y)",
+      "Bash(conda activate:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
