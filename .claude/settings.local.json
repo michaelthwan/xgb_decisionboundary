@@ -8,7 +8,9 @@
       "Bash(cmd.exe /c \"conda create -n xgb_boundary python=3.11 -y\")",
       "Bash(\"C:\\\\Users\\\\MW\\\\miniconda3\\\\condabin\\\\conda.bat\" create -n xgb_boundary python=3.11 xgboost matplotlib numpy scikit-learn pandas -y)",
       "Bash(conda activate:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)"
     ]
   }
 }
